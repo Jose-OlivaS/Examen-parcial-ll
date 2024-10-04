@@ -1,9 +1,9 @@
 import java.sql.*;
 
 public class ConexionBD {
-    private static final String URL = "Url";
-     private static final String USUARIO = "Usuario";
-      private static final String CONTRASEÑA = "Contraseña";
+    private static final String URL = "Url"; // cambiar el url por el de la base de datos
+     private static final String USUARIO = "Usuario"; // cambiar el usuario por el de la base de datos
+      private static final String CONTRASEÑA = "Contraseña"; // cambiar el contraseña por el de la base de datos
 
     private Connection conexion;
 
