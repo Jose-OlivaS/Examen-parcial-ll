@@ -1,3 +1,5 @@
+//crear base de datos en MySql con los siguientes datos
+
 CREATE DATABASE encuestas_db;
 USE encuestas_db;
 
